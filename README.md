@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Lucas 👋
 
-<!--
-**LucasR10-a11y/LucasR10-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BI & Data Analyst / Data Scientist in financial services. I turn messy, scattered data into the dashboards, KPIs, and models leaders actually use to decide.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏦4+ years in investment advisory, insurance & Pre-purchase financing pool — churn, conversion, segmentation, P&L (DRE)
+🛠️ Python (pandas, scikit-learn) · SQL (PostgreSQL) · Power BI (DAX) · ETL · Machine Learning
+🎓 MSc in Mechanical Sciences · MBA in Data Science (USP/Esalq)
+🌎 Open to remote data roles · Brasília, Brazil
+📫 lucasperesende@gmail.com · LinkedIn
+Featured projects
+Project	What it shows	Stack
+[Financial-Services Churn Analytics](<<link>>)	EDA → SQL → churn model on synthetic advisory data; ROC-AUC ≈ 0.78	Python · SQL · scikit-learn
+[Revenue & Profitability BI Dashboard](<<link>>)	Public-API integration → data model → DAX → dashboard	Power BI · DAX · SQL · Python
+[aeroelastic3dof](<<link>>)	Published Python package (from my MSc research)	Python · packaging
+<!-- Opcional: card de estatísticas do GitHub (descomente e troque YOUR_USERNAME): ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=<<username>>&show_icons=true) -->
